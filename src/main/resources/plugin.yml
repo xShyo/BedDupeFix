@@ -1,0 +1,8 @@
+name: BedDupeFix
+version: '${project.version}'
+main: ijuanitoh.com.Main
+api-version: 1.16
+depend: [ WorldGuard ]
+authors: [ xShyo_ ]
+description: Fix the dupe error via beds in foreign regions of WorldGuard
+website: ijuanitoh.com
